@@ -1,6 +1,6 @@
 ### 안녕하세요 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-on&show_icons=true&theme=buefy) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-on&show_icons=true&theme=buefy&count_private=true) <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ain0103)](https://solved.ac/ain0103/) &nbsp; 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-on&layout=compact&theme=vue) 
